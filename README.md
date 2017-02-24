@@ -7,15 +7,15 @@ A macOS Google Chrome launcher with command line switches support.
 - [Google Chrome](https://www.google.com/chrome)
 
 ### Manually
-Download the latest [Anodizer release](https://github.com/filippo-liverani/anodizer/releases/latest)
+Download and unzip the latest [Anodizer release](https://github.com/filippo-liverani/anodizer/releases/latest)
 
-### Brew Cask
+### Homebrew Cask
 Add [Alcoholfree](https://github.com/filippo-liverani/homebrew-alcoholfree) tap
 ```
 brew tap filippo-liverani/alcoholfree
 ```
 
-Install formula
+Install cask
 ```
 brew cask install anodizer
 ```
