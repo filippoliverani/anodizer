@@ -21,14 +21,7 @@ brew cask install anodizer
 ```
 
 ## Configuration
-Anodizer uses a default set of switches to reduce browser fingerprinting
-```
---disable-reading-from-canvas
---disable-webgl
---disable-metrics
---prefer-html-over-flash
---no-experiments
-```
+Anodizer uses a default set of switches to reduce browser fingerprinting and improve performances.
 
 You can override default Anodizer switches creating a `.anodizer` file in your home directory
 ```
