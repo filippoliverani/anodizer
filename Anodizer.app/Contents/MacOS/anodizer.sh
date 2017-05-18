@@ -12,4 +12,4 @@ while read flag; do
   flags="$flags $flag"
 done < "$flagsFile"
 
-open -a "Google Chrome" --args$flags
+open "/Applications/Google Chrome.app" --args$flags
